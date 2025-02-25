@@ -1,0 +1,29 @@
+[
+    {
+        "id":1,
+        "name":"pencil",
+        "imageurl":"https://i.pinimg.com/736x/4d/40/4e/4d404e3b92fbe442e393f51ff223044f.jpg",
+        "price": 5
+    },
+
+    {
+        "id":2,
+        "name":"pen",
+        "imageurl":"https://m.media-amazon.com/images/I/41utRptbmvL.jpg",
+        "price": 10
+    },
+
+    {
+        "id":3,
+        "name":"headphone",
+        "imageurl":"https://m.media-amazon.com/images/I/41lArSiD5hL._AC_UF1000,1000_QL80_.jpg",
+        "price": 10000
+    },
+
+    {
+        "id":4,
+        "name":"iphone",
+        "imageurl":"https://m.economictimes.com/thumb/msid-97738475,width-1200,height-1200,resizemode-4,imgsize-46138/best-iphone-models.jpg",
+        "price": 80000
+    }
+]
