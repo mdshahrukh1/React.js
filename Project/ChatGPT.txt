@@ -1,0 +1,13 @@
+Step-1
+I want to create express apis using mongoose and implement APIs for Login, Register with fields name, email, Phone, address, password, encrypt password using bcrypt and also create token authentication using jwt, implement 2 routes login and register in auth route file and use it  in index.js with /api/auth path
+
+Step-2
+I want to write one middleware named protected root which verifies token coming from authorization header.
+
+Step-3
+I want to create ProductAPI for add, update, delete, getAll, getById, getByCategory and category will be a separate model in that also I want to write add,update,delete and getAllCategories APIs where product use category reference id and user reference id.
+
+Step-4
+For above created Apis I want to write a react application which integrate my apis to it, so generate code for the same
+
+Step-5
