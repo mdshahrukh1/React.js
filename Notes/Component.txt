@@ -1,0 +1,30 @@
+Component
+
+2 ways
+
+1. Class component
+
+class Header extends React.component{
+          render(
+         )
+}
+
+
+2. Functional component
+
+function Header(){
+   return(
+     )
+}
+
+
+{
+    "name":"Hotel jon",
+    "type":"hotel",
+    "city":"berlin",
+    "address":"somewhere",
+    "distance":"500",
+    "title":"Best Hotel in the city",
+    "description":"hotel description",
+    "cheapestPrice":"100"
+}

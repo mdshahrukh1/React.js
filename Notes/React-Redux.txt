@@ -1,0 +1,32 @@
+Global State Management using Redux
+-----------------------------------------------------
+
+Create a Store : 
+Which includes all states 
+this store I will provide as provider to my app.js
+
+Action:
+which is act by users 
+
+Reducers:
+Its function which is triggered when the action is triggered to update the state.
+
+Component:
+You can see the state and also you can trigger the action.
+
+useSelector Hook:
+To read the state.
+
+useDispatch Hook:
+To action trigger.
+
+
+If there is too many reducers.
+
+So, We can combine them into a Root Reducer. 
+
+
+libraries to use Redux in React Application
+
+redux
+react-redux

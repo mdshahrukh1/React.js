@@ -1,0 +1,16 @@
+How to create React application?
+
+Old way:
+-- first install react: npm i create-react-app -g (install this package globally)
+-- now after installation use it for creating application
+       create-react-app appname(you can give any name to your application)
+
+   Make sure not ot give any space, special symbol and capital letters.
+
+
+New way
+-------------------
+use npx command: npm execute means it will execute a particular command in the background rather than installing that library you can still
+create React application.
+
+>npx create-react-app firatapp
